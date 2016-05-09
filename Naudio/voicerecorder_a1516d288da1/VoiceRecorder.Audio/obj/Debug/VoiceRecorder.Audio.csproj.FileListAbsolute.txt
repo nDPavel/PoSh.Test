@@ -1,0 +1,7 @@
+D:\Job\scripts\PowerShell\Function\Naudio\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+D:\Job\scripts\PowerShell\Function\Naudio\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+D:\Job\scripts\PowerShell\Function\Naudio\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+D:\Job\scripts\PowerShell\Function\Naudio\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+D:\Job\scripts\PowerShell\Function\Naudio\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+D:\Job\scripts\PowerShell\Function\Naudio\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+D:\Job\scripts\PowerShell\Function\Naudio\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb

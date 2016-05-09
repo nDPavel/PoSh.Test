@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{a867bd59-80ac-4c20-a44e-5a809fa51cdb}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MyApplication</RootNamespace>
+    <AssemblyName>MyApplication</AssemblyName>
+    <Name>Function</Name>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="11.ps1" />
+    <Compile Include="AddEndFileTex.ps1" />
+    <Compile Include="CompInfo.ps1" />
+    <Compile Include="Copy-WithProgress.ps1" />
+    <Compile Include="DiskSize.ps1" />
+    <Compile Include="FindMac.ps1" />
+    <Compile Include="FindMac_old.ps1" />
+    <Compile Include="Get-DllInfo.ps1" />
+    <Compile Include="Get-FileVersionCom.ps1" />
+    <Compile Include="Get-FileVersionNet.ps1" />
+    <Compile Include="Get-HostName.ps1" />
+    <Compile Include="Get-InstalledApplication.ps1" />
+    <Compile Include="Get-IP.ps1" />
+    <Compile Include="Get-IPDetails.ps1" />
+    <Compile Include="Get-LHSPrinterDriver.ps1" />
+    <Compile Include="Get-LoggedOn.ps1" />
+    <Compile Include="Get-ODBCList.ps1" />
+    <Compile Include="Get-PortScan.ps1" />
+    <Compile Include="Get-RemoteService.ps1" />
+    <Compile Include="Get_compInfo_wmi%28test%29.ps1" />
+    <Compile Include="Get_install%28Test%29.ps1" />
+    <Compile Include="MessageCenter.ps1" />
+    <Compile Include="New-Shorcut.ps1" />
+    <Compile Include="PrinterUtils.ps1" />
+    <Compile Include="Progress_test2.ps1" />
+    <Compile Include="Progres_test.ps1" />
+    <Compile Include="Remove-DelPrintList.ps1" />
+    <Compile Include="Script.ps1" />
+    <Compile Include="Set-messages.ps1" />
+    <Compile Include="ShorcutRemout.ps1" />
+    <Compile Include="Show-ProcessTree.ps1" />
+    <Compile Include="Show-ProcessTree_v2.ps1" />
+    <Compile Include="StringFirst.ps1" />
+    <Compile Include="test.ps1" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Target Name="Build" />
+</Project>

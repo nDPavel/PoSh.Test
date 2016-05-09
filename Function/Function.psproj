@@ -1,0 +1,41 @@
+﻿<Project>
+  <Version>1</Version>
+  <FileID>3ce75e26-799f-4a68-b8f1-ddb6515f4008</FileID>
+  <ProjectType>2</ProjectType>
+  <Files>
+    <File ReferenceName="" Build="2" CommandExtension="False">11.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">AddEndFileTex.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">CompInfo.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Copy-WithProgress.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">DiskSize.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">FindMac.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">FindMac_old.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get_compInfo_wmi(test).ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get_install(Test).ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-DllInfo.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-FileVersionCom.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-FileVersionNet.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-HostName.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-InstalledApplication.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-IP.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-IPDetails.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-LHSPrinterDriver.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-LoggedOn.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-ODBCList.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Get-PortScan.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">MessageCenter.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">New-Shorcut.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">PrinterUtils.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Progres_test.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Progress_test2.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Set-messages.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">ShorcutRemout.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Show-ProcessTree.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Show-ProcessTree_v2.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">StringFirst.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">test.ps1</File>
+    <File ReferenceName="Call-Get-RemoteService_ps1" Build="2" CommandExtension="False">Get-RemoteService.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Remove-DelPrintList.ps1</File>
+    <File ReferenceName="" Build="2" CommandExtension="False">Ping_spiska.ps1</File>
+  </Files>
+</Project>
